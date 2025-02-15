@@ -31,7 +31,7 @@ Have you ever tried to dive into the world of economics, only to find yourself o
 
 Econimate can serve as a valuable learning resource for individuals with disabilities, including those with ADHD, by providing interactive and engaging multimedia elements.
 
-This release extends the functionality of the previous version, which utilized Google PALM2 API ([Our previous project](https://github.com/yanhd2019/GoogleHackathon)), by introducing several advancements. We enhanced overall performance and content by incorporating the advanced GPT-4.0 Turbo model. Additionally, we have implemented a user-friendly UI to elevate the overall user experience.
+This release extends the functionality of the previous version, which utilized Google PALM2 API, by introducing several advancements. We enhanced overall performance and content by incorporating the advanced GPT-4.0 Turbo model. Additionally, we have implemented a user-friendly UI to elevate the overall user experience.
 
 <!-- GETTING STARTED -->
 
