@@ -126,22 +126,6 @@ A pivotal milestone in reaching this stage involved training the GPT 4.0 Turbo A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTACT -->
-
-## Contact
-
-Created with ❤️ by:
-
-<ol>
-<li> Haodong Yan - hyan3@andrew.cmu.edu (Technical Integration) </li>
-<li> Sewon Hong - sewonh@andrew.cmu.edu (Technical Integration) </li>
-<li> Yuchen Zhu - yzhu7@andrew.cmu.edu  (AI Training) </li>
-<li> Jiayuan Ye - jye3@andrew.cmu.edu   (Prompt Engineering) </li>
-<li> Yukta Butala - ybutala@andrew.cmu.edu (Report Writing) </li>
-</ol>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
