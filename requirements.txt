@@ -1,0 +1,9 @@
+openai
+gtts
+moviepy
+opencv-python
+matplotlib
+numpy
+pandas
+flask
+requests
